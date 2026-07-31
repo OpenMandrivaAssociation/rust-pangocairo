@@ -5,8 +5,8 @@
 %global crate pangocairo
 
 Name:           rust-%{crate}
-Version:        0.9.0
-Release:        2%{?dist}
+Version:        0.22.8
+Release:        1%{?dist}
 Summary:        Rust bindings for the PangoCairo library
 
 # Upstream license specification: MIT
